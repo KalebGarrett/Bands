@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bands.Web", "Bands.Web\Band
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bands.Models", "Bands.Models\Bands.Models.csproj", "{98016670-5CEE-4AF7-A9DE-42739765429E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bands.API", "Bands.API\Bands.API.csproj", "{FFE1C345-8F2C-4FED-AD1F-AD202943307D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{98016670-5CEE-4AF7-A9DE-42739765429E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98016670-5CEE-4AF7-A9DE-42739765429E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98016670-5CEE-4AF7-A9DE-42739765429E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE1C345-8F2C-4FED-AD1F-AD202943307D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE1C345-8F2C-4FED-AD1F-AD202943307D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE1C345-8F2C-4FED-AD1F-AD202943307D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE1C345-8F2C-4FED-AD1F-AD202943307D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
